@@ -15,3 +15,9 @@ The following subprojects/components are included. Some of them are not fully im
 * [Nexus-am](https://github.com/NJU-ProjectN/nexus-am)
 * [Nanos-lite](https://github.com/NJU-ProjectN/nanos-lite)
 * [Navy-apps](https://github.com/NJU-ProjectN/navy-apps)
+
+
+
+#	申明
+
+此仓库仅供本人存储PA作业，若被用为任何作业抄袭，本人概不负责
